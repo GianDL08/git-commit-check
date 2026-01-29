@@ -1,0 +1,4 @@
+#!/bin/sh
+set -eu
+
+git-commit-check "$1"
